@@ -24,6 +24,7 @@ module.exports = {
     ecmaVersion: 12,
     project: ["tsconfig.json"],
     sourceType: "module",
+
   },
   plugins: [],
   rules: {
